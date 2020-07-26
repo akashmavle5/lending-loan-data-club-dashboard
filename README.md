@@ -17,5 +17,7 @@ i have hosted the sample of the dashboard  in heorku https://dash-light-lending-
 
 
 References:
+
+
      https://dash.plot.ly/?_ga=2.177910565.1079306860.1595781187-1509006281.1594458484
      https://www.kaggle.com/wendykan/lending-club-loan-data
